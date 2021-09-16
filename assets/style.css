@@ -1,0 +1,87 @@
+body {
+    background: #80658d;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #061675, #0099F7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #eea2ee, #0574b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: rgb(212, 30, 167);
+    font-family: 'Chalkduster', cursive;
+    font-size: 16px;
+    line-height: 1;
+  }
+  .display-3{
+    color: rgb(212, 30, 167);
+  
+  }
+  .lead {
+    color: rgb(212, 30, 167);
+  }
+  
+  .btn {
+    color: whitesmoke;
+  }
+  
+  textarea {
+    font-family: 'Chalkduster', cursive;
+    background: transparent;
+    border: none;
+    resize: none;
+    color: whitesmoke;
+    border-left: 10px solid black;
+    padding: 10px;
+  }
+  
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px;
+  }
+  
+  .description{
+    white-space: pre-wrap;
+  }
+  
+  .time-block{
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;;
+  }
+  
+  .hour {
+    background-color: #ffffff;
+    color: #000000;
+    border-top: 1px dashed #000000;
+  }
+  
+  .past {
+    background-color: #d3d3d3;
+    color: white;
+  }
+  
+  .present {
+    background-color: #ff6961;
+    color: white;
+  }
+  
+  .future {
+    background-color: #77dd77;
+    color: rgb(0, 54, 155);
+  }
+  
+  .saveBtn {
+    border-left: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #26515a;
+    color: purple;
+  }
+  
+  .saveBtn i:hover {
+    font-size: 20px;
+    transition: all .3s ease-in-out;
+  }
