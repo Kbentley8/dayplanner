@@ -1,82 +1,81 @@
 body {
-    font-family: 'Chalkduster', sans-serif;
-    font-size: 16px;
-    line-height: 1;
-    background: linear-gradient(to top, #eea2ee, #0574b9);
-  }
-  
-  textarea{
-    background: transparent;
-    border: none;
-    resize: none;
-    color: #000000;
-    border-left: 1px solid black;
-    padding: 10px;
-  }
-  
-  footer{
-    margin-top: 5rem;
-  }
-  
-  span{
-    width: 5.75rem;
-    justify-content: center;
-  }
-  
-  .jumbotron {
-    text-align: center;
-    background-color: transparent;
-    color: rgb(206, 44, 152);
-    border-radius: 0;
-    border-bottom: 10px white;
-  }
-  
-  .description{
-    white-space: pre-wrap;
-  }
-  
-  .time-block{
-    text-align: center;
-    border-radius: 15px;
-  }
-  
-  .row {
-    white-space: pre-wrap;
-    height: 80px;
-    border-top: 1px solid white;;
-  }
-  
-  .hour {
-    background-color: #ffffff;
-    color: rgb(206, 44, 152);
-    border-top: 1px dashed #000000;
-  }
-  
-  .past {
-    background-color: #d3d3d3;
-    color: white;
-  }
-  
-  .present {
-    background-color: #ff6961;
-    color: white;
-  }
-  
-  .future {
-    background-color: #7e77dd;
-    color: white;
-  }
-  
-  .saveBtn {
-    border-left: 1px solid black;
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    background-color: #06AED5;
-    color: rgb(206, 44, 152);
-  }
-  
-  .saveBtn i:hover {
-    font-size: 20px;
-    transition: all .3s ease-in-out;
-  }
-  
+  font-family: 'Chalkduster', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+  background: linear-gradient(to top, #eea2ee, #0574b9)
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: rgb(207, 26, 132);
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+footer{
+  margin-top: 5rem;
+}
+
+span{
+  width: 5.75rem;
+  justify-content: center;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: rgb(207, 26, 132);
+  border-radius: 0;
+  border-bottom: 10px black;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid rgb(207, 26, 132);;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: rgb(207, 26, 132);
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #917272;
+  color: white
+}
+
+.present {
+  background-color: #9e5d85;
+  color: rgb(225, 188, 240);
+}
+
+.future {
+  background-color: #2953c7;
+  color: rgb(207, 26, 132);
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: rgb(207, 26, 132);
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
