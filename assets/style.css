@@ -28,7 +28,7 @@ body {
     background-color: transparent;
     color: rgb(206, 44, 152);
     border-radius: 0;
-    border-bottom: 10px solid black;
+    border-bottom: 10px white;
   }
   
   .description{
@@ -48,7 +48,7 @@ body {
   
   .hour {
     background-color: #ffffff;
-    color: #000000;
+    color: rgb(206, 44, 152);
     border-top: 1px dashed #000000;
   }
   
