@@ -7,6 +7,5 @@ In this assignment, I was tasked with creating an interactive day planner or cal
 [Link to Day Planner](https://kbentley8.github.io/homework05-dayplanner/)
 
 
-
-# Screenshot
+# Screenshot of Day planner
 ![Screen Shot 2021-09-17 at 2 02 41 PM](https://user-images.githubusercontent.com/88289885/133833860-d1254b97-d085-48b1-93a9-cf0fe998260a.png)
