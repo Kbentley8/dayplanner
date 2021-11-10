@@ -1,4 +1,4 @@
-# homework05-dayplanner
+# dayplanner
 
 # Description
 In this assignment, I was tasked with creating an interactive day planner or calendar that allows the user to save events for each hour of the work day (9am-5pm). In this assignment updated html, css powered by jquery, and moment.js were used. 
